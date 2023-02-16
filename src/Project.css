@@ -1,0 +1,25 @@
+.project-container{position: relative;display: inline-block;height: 100vh;}
+.project-container:hover{width: 50%!important;}
+
+@keyframes expand {
+    0%{
+        width: 33%;
+    }
+    100%{
+        width: 50%;
+    }
+}
+@keyframes shrink {
+    0%{
+        width: 33%;
+    }
+    100%{
+        width: 25%;
+    }
+}
+
+
+.project-image{position: absolute;width: 100%;}
+.lower-description{position: absolute;bottom: 0;top: 30%;width: 100%;background: linear-gradient(0deg, rgba(53,53,53,1) 0%, rgba(53,53,53,0) 100%);z-index: 9;display: flex;justify-content: flex-end;flex-direction: column;}
+.title{font-size: 16px;padding-bottom: 50px;color: white;font-weight: 700;text-transform: uppercase;display: block;text-align: center;}
+

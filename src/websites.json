@@ -1,0 +1,26 @@
+{
+    "mental-boost": {
+        "name": "Mental Boost",
+        "id": 0,
+        "link": "https://www.mentalboost.sk",
+        "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80"
+    },
+    "agentura": {
+        "name": "Agentura Renaissance",
+        "id": 1,
+        "link": "https://www.agenturarenaissance.sk",
+        "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
+    },
+    "rdsmilovice": {
+        "name": "Rdsmilovice",
+        "id": 2,
+        "link": "https://www.rdsmilovice.cz",
+        "image": ""
+    },
+    "opocno": {
+        "name": "Byty Opocno",
+        "id": 3,
+        "link": "https://www.bytyopocno.cz",
+        "image": ""
+    }
+}

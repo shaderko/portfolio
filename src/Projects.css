@@ -1,0 +1,12 @@
+.projects-container{height: 100vh;overflow-x: auto;overflow-y: hidden;}
+
+.projects-container:hover .project-container{width: 33%;animation: shrink 1s forwards;}
+
+@keyframes shrink {
+    0%{
+        width: 33%;
+    }
+    100%{
+        width: 25%;
+    }
+}
